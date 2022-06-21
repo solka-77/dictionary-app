@@ -1,13 +1,33 @@
-.App {
-  text-align: center;
-  margin: 70px auto;
-  border: 1px solid rgb(188, 184, 184);
-  background-color: rgb(245, 241, 234);
-  width: 500px;
+body {
+  background-color: #f9f7fe;
 }
-footer {
-  margin: 40px auto;
+.Dictionary {
+  background-color: white;
+  width: 850px;
+  height: 200px;
+  margin-top: 180px;
+  margin-left: 300px;
+  border-radius: 7px;
+  box-shadow: 5px 10px 18px #f5f3f3;
 }
-form {
+.Dictionary label {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 24px;
+  margin-bottom: 20px;
+  display: block;
+  line-height: 29px;
+  margin-left: 50px;
+}
+.Dictionary .search-input {
+  margin-left: 50px;
+  font-weight: 600;
+  width: 700px;
+  height: 50px;
+  font-style: normal;
+  font-size: 24px;
+  margin-bottom: 20px;
+  display: block;
+  line-height: 29px;
   margin-top: 40px;
 }
