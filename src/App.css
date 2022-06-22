@@ -86,3 +86,7 @@ footer {
 strong {
   margin-left: 20px;
 }
+img {
+  margin-top: 15px;
+  border-radius: 6px;
+}
