@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="wine" />
       </main>
       <footer>Coded by Nastaran Karimi</footer>
     </div>
